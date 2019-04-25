@@ -44,7 +44,7 @@ keras
 This project conatians the customer churn  prediction from a company and the datatset i get it from kaggle 
 
 
-###**Kaggle Competitions** 
+**Kaggle Competitions** 
 
 ## Amazon Image similarity 
 
