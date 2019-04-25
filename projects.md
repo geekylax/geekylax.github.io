@@ -65,7 +65,7 @@ This project conatians the customer churn  prediction from a company and the dat
 
 Udemy 
 
-##udemy certifications 
+## udemy certifications 
 
 Machine Leaarning A-Z kaggle Mster
 
