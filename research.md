@@ -15,15 +15,17 @@ This is a collection of research that i am working on it.
 
 Researching in Mask R-CNN for 3d object image detections on Buildings
 Refernces for research
-[!url](https://medium.com/geoai/reconstructing-3d-buildings-from-aerial-lidar-with-ai-details-6a81cb3079c0) 
 
-[!url](https://towardsdatascience.com/mask-r-cnn-for-ship-detection-segmentation-a1108b5a083)
+[reconstructing-3d-buildings-from-aerial-lidar-with-ai-details](https://medium.com/geoai/reconstructing-3d-buildings-from-aerial-lidar-with-ai-details-6a81cb3079c0) 
 
-i have done simple dataset of car damage detection and parking detector from github and done experiments 
+[mask-r-cnn-for-ship-detection-segmentation](https://towardsdatascience.com/mask-r-cnn-for-ship-detection-segmentation-a1108b5a083)
+
+
+I have done simple dataset of car damage detection and parking detector from github and done experiments 
 
 here is the code
 
-[!click here](https://github.com/geekylax/RCNN-object-detetction)
+[click here](https://github.com/geekylax/RCNN-object-detetction)
 
 
 ## Quatum computing 
