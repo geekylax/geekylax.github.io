@@ -4,6 +4,9 @@ title: Research
 subtitle: Research in Quantum Computing 
 comments: true
 carbonads: true
+bigimg:
+  - "/img/bigimage/quantum.jpg" : "Quantum Computing IBM"
+
 ---
 
 This is a collection of research that i am working on it. 
