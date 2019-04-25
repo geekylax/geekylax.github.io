@@ -63,9 +63,9 @@ This project conatians the customer churn  prediction from a company and the dat
 
 **Netflix Movie Recommendation**
 
-Uudemy 
+Udemy 
 
-## udemy certificatioons 
+##udemy certificatioons 
 
 Machine Leaarning A-Z kaggle Mster
 
