@@ -19,7 +19,9 @@ I'm also looking for a job, so consider my resumae <a href="/resume">resume</a> 
 Everything starts form  some basics here i started my selflearning path from basic tutorials
 
 [Fashion MNIST](https://github.com/geekylax/Fashion-MNIST-CNN)
+
 [Breast cancer prediction](https://github.com/geekylax/Breast_cancer_prediction-svm-)
+
 [credit card fraud detection](https://github.com/geekylax/creditcard-frauddetection)
 
 ## Darkflow 
@@ -37,9 +39,12 @@ pytorch
 keras
 
 ## Churn Prediction 
-**[Churn prediction](https://github.com/geekylax/Churn_prediction)**This project conatians the customer churn  prediction from a company and the datatset i get it from kaggle 
+[Churn prediction](https://github.com/geekylax/Churn_prediction)
 
-##**Kaggle Competitions** 
+This project conatians the customer churn  prediction from a company and the datatset i get it from kaggle 
+
+
+###**Kaggle Competitions** 
 
 ## Amazon Image similarity 
 
