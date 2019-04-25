@@ -30,6 +30,7 @@ here is the code
 
 ## Quatum computing 
 
-Studying this books for reference is creating a revolution in Quantum computing 
+Studying this books for reference  
+Lokking forward to create a revolution using  Quantum computing  mechanism
 
 [drive link](https://drive.google.com/file/d/1jbJkpHWU2vm7u9tBeLrhv3N_LtNiWm1L/view?usp=sharing)
