@@ -4,7 +4,11 @@ title: Projects
 subtitle: What's been eating away my free time
 comments: true
 carbonads: true
-
+bigimg:
+  - "/img/bigimage/project.jpg" : "Predict Income"
+  - "/img/bigimage/scene1.jpg" : "car parking"
+  - "/img/bigimage/emotion.jpg" : "Emotion Detector"
+  - "/img/bigimage/scene2.jpg" : "car damage"
 ---
 
 This is a collection of some personal projects I've have worked on and some projects code borrowed form some opensource 
