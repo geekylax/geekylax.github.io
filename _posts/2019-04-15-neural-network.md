@@ -4,7 +4,7 @@ title: Brief of Neuron
 subtitle: Deep view of Neural network with MNIST
 bigimg: /img/thirdblog/bigbackground.jpg
 includes: mathjax
-tags: neural,brain
+tags: neural , brain
 ---
 
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "My First Blog"
 categories: My first blog which is abot the roadmap for ML ad Dl 
-tags: tutorials,artificial intelligence,firstblog
+tags: tutorial , artificial intelligence, firstblog
 ---
 
 Check out my <a href="/resume">resume</a> here.
