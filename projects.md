@@ -18,9 +18,9 @@ I'm also looking for a job, so consider my resumae <a href="/resume">resume</a> 
 ## Basic tutorial projects
 Everything starts form  some basics here i started my selflearning path from basic tutorials
 
-Fashion MNIST(https://github.com/geekylax/Fashion-MNIST-CNN)
-Breast cancer prediction(https://github.com/geekylax/Breast_cancer_prediction-svm-)
-credit card fraud detection(https://github.com/geekylax/creditcard-frauddetection)
+[Fashion MNIST](https://github.com/geekylax/Fashion-MNIST-CNN)
+[Breast cancer prediction](https://github.com/geekylax/Breast_cancer_prediction-svm-)
+[credit card fraud detection](https://github.com/geekylax/creditcard-frauddetection)
 
 ## Darkflow 
 - **[yolo object detection](https://github.com/geekylax/Object_detection)** This project code is borrowed form darkflow and darknet and tried on different dataset ...if u like this project fork me  here
@@ -29,7 +29,7 @@ credit card fraud detection(https://github.com/geekylax/creditcard-frauddetectio
 - **[fine food review](https://github.com/geekylax/Amazon_fine_food_review_solutions)** This project i just go through kaggle competitions and worked on it and i get some code from github also 
 
 ## Project Tutorials
-_ **[Projecct Tutorials](https://github.com/geekylax/Projects_from_Tutorials)** This  projects are from tutorials that i have learn online and done some experiments form own dataset it conatains my code quality in  
+- **[Projecct Tutorials](https://github.com/geekylax/Projects_from_Tutorials)** This  projects are from tutorials that i have learn online and done some experiments form own dataset it conatains my code quality in  
 Tensorflow
 
 pytorch
@@ -39,7 +39,7 @@ keras
 ## Churn Prediction 
 **[Churn prediction](https://github.com/geekylax/Churn_prediction)**This project conatians the customer churn  prediction from a company and the datatset i get it from kaggle 
 
-
+##**Kaggle Competitions** 
 
 ## Amazon Image similarity 
 
