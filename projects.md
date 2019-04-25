@@ -32,11 +32,12 @@ Everything starts form  some basics here i started my selflearning path from bas
 
 ## Project Tutorials
 - **[Projecct Tutorials](https://github.com/geekylax/Projects_from_Tutorials)** This  projects are from tutorials that i have learn online and done some experiments form own dataset it conatains my code quality in  
-Tensorflow
 
-pytorch
+1. Tensorflow
 
-keras
+2. pytorch
+
+3. keras
 
 ## Churn Prediction 
 [Churn prediction](https://github.com/geekylax/Churn_prediction)
@@ -44,23 +45,23 @@ keras
 This project conatians the customer churn  prediction from a company and the datatset i get it from kaggle 
 
 
-**Kaggle Competitions** 
+##Kaggle Competitions** 
 
-## Amazon Image similarity 
-
-
-## Quora question similarity 
+**Amazon Image similarity** 
 
 
-## Personaloized cancer diagnostics
+**Quora question similarity** 
 
 
-
-## Human Actvity Recognition 
+**Personaloized cancer diagnostics**
 
 
 
-## Netflix Movie Recommendation
+**Human Actvity Recognition**
+
+
+
+**Netflix Movie Recommendation**
 
 Uudemy 
 
