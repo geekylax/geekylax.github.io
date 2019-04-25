@@ -56,11 +56,16 @@ This project conatians the customer churn  prediction from a company and the dat
 
 
 
-## Human Actvity Recognitioon 
+## Human Actvity Recognition 
 
 
 
 ## Netflix Movie Recommendation
 
+Uudemy 
 
 ## udemy certificatioons 
+
+Machine Leaarning A-Z kaggle Mster
+
+https://www.udemy.com/certificate/UC-YQ8OVYDD/
