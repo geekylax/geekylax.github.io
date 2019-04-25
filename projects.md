@@ -4,8 +4,6 @@ title: Projects
 subtitle: What's been eating away my free time
 comments: true
 carbonads: true
-bigimg:
-  - "/img/bigimage/project.png" : "Quantum Computing IBM"
 
 ---
 
