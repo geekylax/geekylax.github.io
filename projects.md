@@ -50,7 +50,7 @@ Everything starts form  some basics here i started my selflearning path from bas
 This project conatians the customer churn  prediction from a company and the datatset i get it from kaggle 
 
 
-##Kaggle Competitions** 
+## Kaggle Competitions 
 
 **Amazon Image similarity** 
 
