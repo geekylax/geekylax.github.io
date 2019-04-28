@@ -1,9 +1,9 @@
----
+  ---
 layout: post
 title: Flask API
 subtitle: Flask deployment for employee salary prediction 
 bigimg: /img/webapp.png
-tags: [python,flask,heroku,salaryprediction]
+tags: python,flask,heroku,salaryprediction
 ---
 
 ## From creating a machine learning model to deploying it on the web — a succinct guide
