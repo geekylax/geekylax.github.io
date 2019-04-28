@@ -1,12 +1,3 @@
-<!-- ---
-layout: post
-title: Flask API
-subtitle: Flask deployment for employee salary prediction 
-
-tags: [python , flask , heroku , salaryprediction]
---- -->
-<!-- bigimg: /img/webapp.png
- -->
 ---
 layout: post
 title: Flask API
