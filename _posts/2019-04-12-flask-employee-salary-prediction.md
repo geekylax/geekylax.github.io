@@ -1,13 +1,13 @@
----
+<!-- ---
 layout: post
 title: Flask API
 subtitle: Flask deployment for employee salary prediction 
 
 tags: [python , flask , heroku , salaryprediction]
----
+--- -->
 <!-- bigimg: /img/webapp.png
  -->
-<!-- ---
+---
 layout: post
 title: Flask API
 subtitle: Flask deployment for employee salary prediction 
@@ -344,4 +344,3 @@ Done
 
 It was that simple. We created a machine learning model, trained it, created a web application to predict new data using the model and deployed it on the internet using heroku. And did all of it in python!
 
- -->
